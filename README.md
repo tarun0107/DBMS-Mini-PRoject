@@ -1,5 +1,4 @@
-# DBMS-Mini-Project
-Project Name : Hospital Management System
+#Hospital Management System
 
 
 
